@@ -1,0 +1,16 @@
+[
+  {
+    "id": "p1",
+    "name": "Basic Chair",
+    "category": "furniture",
+    "price": 1200,
+    "stock": 10
+  },
+  {
+    "id": "p2",
+    "name": "Office Desk",
+    "category": "furniture",
+    "price": 4500,
+    "stock": 5
+  }
+]
