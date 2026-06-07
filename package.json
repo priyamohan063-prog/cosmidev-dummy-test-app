@@ -1,0 +1,12 @@
+{
+  "name": "cosmidev-dummy-test-app",
+  "version": "1.0.0",
+  "description": "Dummy test app for CosmiDev AI Workspace pilot testing",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node src/tests/cart.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
