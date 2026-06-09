@@ -7,3 +7,7 @@ export function calculateCartTotal(items) {
 export function applyDiscount(total, discountPercent) {
   return total - total * (discountPercent / 100);
 }
+
+export function calculateTax(total, taxPercent) {
+  return total * (taxPercent / 100);
+}
